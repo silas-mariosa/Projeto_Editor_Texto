@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto_Editor_Texto", "Projeto_Editor_Texto\Projeto_Editor_Texto.csproj", "{4BC4E2B1-0296-4104-B2C7-2FE1A5325F76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib_Functions", "Lib_Functions\Lib_Functions.csproj", "{DC2F1DB6-D52B-4913-B2F6-70021C1B6242}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Editor de Texto SRMV", "Editor de Texto SRMV\Editor de Texto SRMV.vdproj", "{6E0CC31B-6353-4965-96F4-36A2ED982CC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BC4E2B1-0296-4104-B2C7-2FE1A5325F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC4E2B1-0296-4104-B2C7-2FE1A5325F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC4E2B1-0296-4104-B2C7-2FE1A5325F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC4E2B1-0296-4104-B2C7-2FE1A5325F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC2F1DB6-D52B-4913-B2F6-70021C1B6242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2F1DB6-D52B-4913-B2F6-70021C1B6242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2F1DB6-D52B-4913-B2F6-70021C1B6242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2F1DB6-D52B-4913-B2F6-70021C1B6242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0CC31B-6353-4965-96F4-36A2ED982CC2}.Debug|Any CPU.ActiveCfg = Debug
+		{6E0CC31B-6353-4965-96F4-36A2ED982CC2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E049259-E134-4ED6-A2E4-7436CF8EA307}
+	EndGlobalSection
+EndGlobal
