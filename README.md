@@ -27,6 +27,20 @@ Versão inicial do editor de texto simples com suporte para criação e edição
 
 ## Licença:
 
-Este editor de texto simples é licenciado sob a Licença MIT. Você pode usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do software sem restrições. Leia o arquivo LICENSE.md para obter mais informações.
+Licença Simplificada - Silas Mariosa
 
+Este software é distribuído sob a Licença Simplificada Silas Mariosa (SSSL).
+
+Permissões:
+
+O uso deste software é permitido para qualquer finalidade, seja ela comercial ou não.
+Este software pode ser modificado e distribuído livremente.
+É permitido incluir este software em pacotes de distribuição ou repositórios de software.
+Restrições:
+
+Este software é distribuído "como está", sem garantia de qualquer tipo.
+O autor deste software não se responsabiliza por quaisquer danos ou prejuízos causados pelo uso deste software.
+Esta licença pode ser modificada ou atualizada pelo autor deste software a qualquer momento, sem aviso prévio.
+
+Fim da Licença Simplificada.
 
